@@ -1,0 +1,20 @@
+Origin: TIGI Software
+Label: TIGI Software
+Suite: stable
+Version: 1.0
+Codename: tigisoftware
+Architectures: iphoneos-arm
+Components: main
+Description:TIGI Software Repo - development repo
+MD5Sum:
+ 4c1711486138f60fd328cabac2963eb0 1836 Packages
+ bfee909bd8c7c6db1f443f7e0b2ae8b7 772 Packages.gz
+ 2e3fd18b01b121249e9789a5e066a0f1 880 Packages.bz2
+SHA1:
+ 646bbaf67617dd82bd4268ab951bcd3042ca149f 1836 Packages
+ 8047257b0e5331b7596ade1a357282cbedea8ec4 772 Packages.gz
+ fdb2553a2fccb474eda8ac01976f71f27c2302c7 880 Packages.bz2
+SHA256:
+ e81810d3420e03b0bff479fc286ac963a86d093973a8699f1b4c2771e0842f57 1836 Packages
+ fc3517bb4c6dbf359489bc7ffdea1c26e4785f77e8b1bfb1eee3405bcd695335 772 Packages.gz
+ 4f43ad0b1d59a63fab4cd1888ac935fceb142582e704863df84748b9e996cf75 880 Packages.bz2

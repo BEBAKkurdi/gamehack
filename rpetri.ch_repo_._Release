@@ -1,0 +1,17 @@
+Origin: rpetrich repo
+Label: rpetrich
+Suite: stable
+Version: 0.2
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: Beta software by Ryan Petrich and others
+MD5Sum:
+ 9e7d5669c70179420f5c7c2bcd375be5 42739 Packages 
+ 9ce6ad6eac386730247bd7e3687be2bc 10267 Packages.bz2 
+SHA1:
+ 1f21693004d8cd9790d937041e3cb656e3fd7655 42739 Packages 
+ 6dea040567765ede4dfe4b723618c8155d3f4550 10267 Packages.bz2 
+SHA256:
+ 9c6007c01fd38cb3e2696c7f033182fc06b1a89daacbd04fbb59ede962ad0a07 42739 Packages 
+ 387269565a1d1e3d2cd370d8f8689c26b0cef8b5c79ef04348fbf64c284cb192 10267 Packages.bz2 

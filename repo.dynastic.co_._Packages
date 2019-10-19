@@ -1,0 +1,1475 @@
+Package: com.samgisaninja.successionrestore
+Name: Succession
+Version: 1.4.1
+Architecture: iphoneos-arm
+Description: Restore without updating via rootfilesystem DMG — Supports iOS 10.0+ "out-of-the-box", can support older versions, read technical information below.
+Maintainer: Samg_is_a_Ninja
+Author: Samg_is_a_Ninja
+Section: Utilities
+Depends: firmware-sbin, rsync
+Depiction: https://repo.dynastic.co/depiction/175663146852155392/
+Icon: https://repo.dynastic.co/data/static/version/236897411878879232/236897413447548928?size=180
+Filename: download/175663146852155392/236897411878879232.deb
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/175663146852155392/
+Size: 1313608
+MD5sum: 11a78dd7c8a36af36b9ac24fe4921325
+SHA1: 4c04d011aafd1bdb94dc9e18d4ed040f43fb7c11
+SHA256: 44103ef53e09a817adaf6676f9305b4cdb937a08e085ec9badab3d16b4bc98c7
+
+Package: com.spos
+Name: Spos for Spotify
+Depends: mobilesubstrate
+Conflicts: beta.spos
+Architecture: iphoneos-arm
+Description: Unleash Your Spotify With Spos — ### Instructions
+Maintainer: aesthyrica
+Author: aesthyrica
+Section: Tweaks
+Version: 2.3.1
+Installed-Size: 492
+Filename: download/185392166300811264/233937215208554496.deb
+Depiction: https://repo.dynastic.co/depiction/185392166300811264/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/185392166300811264/
+Size: 90510
+MD5sum: 7d12e818223a4e662f48d2cead76f131
+SHA1: 564fe076323fcb106379f4805dcb8bfbcc5e4236
+SHA256: 3e5e4cd0bf7c4fe155dfea780e601fdb06d77b8dcba4318d899bc322fe4c2a12
+Icon: https://repo.dynastic.co/data/static/version/233937215208554496/234687711028445184?size=180
+
+Package: com.aesthyrica.nord
+Name: Nord
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: Nord is designed to let you color the WhatsApp application freely. — Here, you can change:
+Maintainer: aesthyrica
+Author: aesthyrica
+Section: Tweaks
+Version: 1.1
+Installed-Size: 528
+Filename: download/224790300504096768/236521923821961216.deb
+Depiction: https://repo.dynastic.co/depiction/224790300504096768/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/224790300504096768/
+Size: 52172
+MD5sum: c3738cf4a1fbaeca803fc379b1f2f53a
+SHA1: 4e95d43a19a50cce48a5cda712a01d061b234b3d
+SHA256: a5b9574e45b0774851ef0162c1cb8000b374b2c0e5ed87fade5ea52ccfe4d0db
+Icon: https://repo.dynastic.co/data/static/version/236521923821961216/236521923972956160?size=180
+
+Package: com.cardboardface.imlayingdowndamnit
+Name: ImLyingDownDamnit
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Description: Auto-rotate how it should be; you'll never use orientation lock again! — ## WARNING:
+Pre-Depends: firmware(>=10.0), mobilesubstrate
+Maintainer: CardboardFace
+Author: CardboardFace
+Section: Tweaks
+Version: 1.4
+Installed-Size: 1048
+Filename: download/209883262225481728/234730564840587264.deb
+Depiction: https://repo.dynastic.co/depiction/209883262225481728/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/209883262225481728/
+Size: 113102
+MD5sum: 1820a32b52c3a596a6c204038a3be125
+SHA1: fcdeda6fe394e85d6eab6128bc77e4094811a452
+SHA256: 8ba7d5b0790fc777ebb4d6d0a5723b2e808f93dcc68e170e6d6f0c6d3e172cca
+Icon: https://repo.dynastic.co/data/static/version/234730564840587264/234730565058691072?size=180
+Tag: cydia::commercial
+
+Package: xyz.royalapps.jellyfish
+Name: Jellyfish
+Depends: mobilesubstrate,preferenceloader,firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Modernize your Lock screen. — Inspired by the watchOS Motion face, Jellyfish aims to make your Lock screen more modern, more beautiful, and more useful.
+Maintainer: Justin Proulx
+Author: Justin Proulx and Ayden Panhuyzen
+Section: Tweaks
+Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro,com.adriandev.jellyfishcustom
+Version: 1.3.2
+Installed-Size: 728
+Filename: download/151457571662725120/236244448026034176.deb
+Depiction: https://repo.dynastic.co/depiction/151457571662725120/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/151457571662725120/
+Size: 133458
+MD5sum: 460766fdd4818b6d11cdf7f2e035a692
+SHA1: 1ec90c1124af67c0f30cd18c08dd131ff5c003f6
+SHA256: 2f52c2c7d22e9309c90752bc718f77f79d4982cccbc83043f3b6974416e5d023
+Icon: https://repo.dynastic.co/data/static/version/236244448026034176/236244448252526592?size=180
+Tag: cydia::commercial, cydia::commercial
+
+Package: com.twttrlabs
+Name: Twttr Labs
+Depends: mobilesubstrate
+Conflicts: com.twttrvideodl
+Architecture: iphoneos-arm
+Description: Unlock Twitter's hidden features — ### Features
+Maintainer: Aesthyrica
+Author: aesthyrica
+Section: Tweaks
+Version: 1.0
+Installed-Size: 824
+Filename: download/231795644623224832/231795644828745728.deb
+Depiction: https://repo.dynastic.co/depiction/231795644623224832/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/231795644623224832/
+Size: 145588
+MD5sum: dcc380a8b78b72744b44ef54aa0474e9
+SHA1: 85f2767cd4fa98e64d0bb252fec149fbf065d7d0
+SHA256: 0a950c9f044a361acf32984799037f079b6363cf4afe17d899aee414a0ed628d
+Icon: https://repo.dynastic.co/data/static/version/231795644828745728/231810108965781504?size=180
+
+Package: com.blakeboxberger.bazzi2
+Name: Bazzi 2
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Tag: cydia::commercial, cydia::commercial
+Architecture: iphoneos-arm
+Description: The ultimate battery icon customizer, modernized! — Supports iOS 11 and 12.
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Section: Tweaks
+Version: 2.0.8
+Installed-Size: 408
+Filename: download/230499987912392704/232332540852043776.deb
+Depiction: https://repo.dynastic.co/depiction/230499987912392704/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/230499987912392704/
+Size: 63944
+MD5sum: de8bed58d80c23ace823246bf77dfb8b
+SHA1: deed5fee3248d6c5003e8f1921169534b898a20f
+SHA256: cb98f9caba4072ec620e594a15fef710774f41cc91c93cdc8025ac64228827f1
+Icon: https://repo.dynastic.co/data/static/version/232332540852043776/232332541061758976?size=180
+
+Package: com.blakeboxberger.roman
+Name: Roman
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Turn the modern iOS status bar time to roman numerals! — Compatible with iOS 11/12.
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 136
+Filename: download/231118689515077632/231118689666072576.deb
+Depiction: https://repo.dynastic.co/depiction/231118689515077632/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/231118689515077632/
+Size: 4566
+MD5sum: 7274bde947e83b7310ccf63252660770
+SHA1: 1800c65dae43c9f4112c0acf092b1c7570e6e7d7
+SHA256: c45cf5418ae9efe987d715702a2b128d0e25f16b2c80cd1a84c4d235d905dbba
+Icon: https://repo.dynastic.co/data/static/version/231118689666072576/231132405631549440?size=180
+
+Package: com.spotaptic
+Name: Spotaptic
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Bring Haptic Feedback to your Spotify controls! — Add haptic feedback to:
+Maintainer: aesthyrica
+Author: aesthyrica
+Section: Tweaks
+Version: 1.0
+Installed-Size: 416
+Filename: download/229872139795169280/229872139920998400.deb
+Depiction: https://repo.dynastic.co/depiction/229872139795169280/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/229872139795169280/
+Size: 11244
+MD5sum: cfc8658149e05410d201c43aca7a7017
+SHA1: 18e784fca532010954b49d8c1ffd24498db8eb1e
+SHA256: fb2bff4922a04c28303485bfbd4875f468f6c6b99cbf7db4bde4cc745fc4a71d
+Icon: https://repo.dynastic.co/data/static/version/229872139920998400/229876299315806208?size=180
+
+Package: com.midnightchips.asteroid
+Name: Asteroid
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences (>= 1.1.5), com.creaturesurvive.libcscolorpicker(>= 1.0.3)
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Description: System-Wide Weather — The Spiritual Successor to Forecast and Meteor, Asteroid allows displaying live animations of the weather on the Home Screen, Lock Screen and Weather App. Options configured in settings.
+Maintainer: midnightchips & the casle
+Author: MidnightChips
+Section: Tweaks
+dev: midnightchips & the casle
+Icon: https://repo.dynastic.co/data/static/version/228890739180830720/228890739394740224?size=180
+Version: 3.0.7
+Installed-Size: 2296
+Filename: download/124386517706604544/228890739180830720.deb
+Depiction: https://repo.dynastic.co/depiction/124386517706604544/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/124386517706604544/
+Size: 730416
+MD5sum: 80309225f6957bba671e46bc7c40b0ee
+SHA1: 4e97f195aabfe055397dcaf885431c8ab1706998
+SHA256: e81d3a98237ce9553b94b96b9f24f9d6fc83a7c55df0c833a0f4a5977d09a6a4
+
+Package: co.dynastic.ios.tweak.shortlook
+Name: ShortLook
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Architecture: iphoneos-arm
+Description: Your notifications. At a glance. — Supports iOS 11 and iOS 12.
+Maintainer: Ayden Panhuyzen
+Author: Dynastic
+Section: Tweaks
+Version: 1.0.15.2
+Installed-Size: 2596
+Filename: download/68292503631036416/229327987336544256.deb
+Depiction: https://repo.dynastic.co/depiction/68292503631036416/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/68292503631036416/
+Size: 14502
+MD5sum: 69a3a627169d4239d540fe2217c24bbc
+SHA1: cfbe8abfbed5e7b658b21340ee96463f98764148
+SHA256: 888c1bbce988a816fa899c89c9b2d22c27516127617b18de929c57ef0b67958e
+Icon: https://repo.dynastic.co/data/static/version/229327987336544256/229327987584008192?size=180
+Homepage: https://www.dynastic.co/shortlook/?refsrc=repo
+Tag: cydia::commercial
+
+Package: com.23aaron.zeze
+Name: ZEZE
+Version: 1.6
+Architecture: iphoneos-arm
+Description: A Tropical Icon theme. — What separates ZEZE from other themes?
+Author: 23 Aaron
+Maintainer: 23 Aaron
+Section: Themes
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Filename: download/206758787208445952/228671405816807424.deb
+Depiction: https://repo.dynastic.co/depiction/206758787208445952/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/206758787208445952/
+Size: 21784224
+MD5sum: 6e631d473d91bae2e7e8762db9d9d87d
+SHA1: fc8d03e2f2ae692f77b3f35e1f339718c514d34b
+SHA256: 20096a6ef3f478706461bfb6fa28155dae8f449213bd1629d22498a2588dcee6
+Icon: https://repo.dynastic.co/data/static/version/228671405816807424/228671406013939712?size=180
+Tag: cydia::commercial
+
+Package: me.aesthyrica.twttr
+Name: twttr
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Introducing The Most Advanced Colour Tweak For The Twitter Application  — #### This tweak is designed to let you colour every single element of the twitter application freely.
+Maintainer: Aesthyrica
+Author: aesthyrica
+Section: Tweaks
+Version: 1.0.5
+Installed-Size: 1500
+Filename: download/202502180542873600/224827860118929408.deb
+Depiction: https://repo.dynastic.co/depiction/202502180542873600/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/202502180542873600/
+Size: 205420
+MD5sum: d67e02f1b1fb5b28ee700252ea1fd63e
+SHA1: 63520dd55e8aff33c036fe59f20454f64021d567
+SHA256: 6201d7592e9a5052c65e6bc74ca22b1ba550e95af2b4baeb7cc512db9210dbfd
+Icon: https://repo.dynastic.co/data/static/version/224827860118929408/224827860278312960?size=180
+
+Package: com.patrick.darkkeysxii
+Name: Dark Keys
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: The keyboard you know. Colors you prefer. — A tweak for the stock iOS keyboard, giving a stealthy, true black look across the operating system.
+Maintainer: Patrick & Ultra <vysionnetwork@gmail.com>
+Author: Patrick
+Section: Tweaks
+Conflicts: com.gnos.bloard
+Version: 1.1.1
+Installed-Size: 2200
+Filename: download/215602544095789056/227881260440092672.deb
+Depiction: https://repo.dynastic.co/depiction/215602544095789056/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/215602544095789056/
+Size: 2153916
+MD5sum: 3fa4f0a488932fe10949c2e6524b5093
+SHA1: e1776b831bc11ceaf292decf1f0e7307dc83fa36
+SHA256: 7732958e8c837ce1076ca84389eda4579177fd111d0da733ad67e1ad31826b95
+Icon: https://repo.dynastic.co/data/static/version/227881260440092672/227881260670779392?size=180
+
+Package: dev.ayden.ios.serial
+Name: Serial
+Depends: firmware (>= 11.0), org.swift.libswift
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Find a device on the right version. — Quickly find information such as the manufacture date and model of an Apple device from its serial number. Scan the barcode on the box of your phone to find out more about it.
+Maintainer: Ayden Panhuyzen
+Author: Ayden Panhuyzen
+Section: Utilities
+Filename: download/227187396456742912/227263359882362880.deb
+Depiction: https://repo.dynastic.co/depiction/227187396456742912/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/227187396456742912/
+Size: 1450336
+MD5sum: 16a56da8a269458145daea749eb453a0
+SHA1: 02396bcb2e7f58c04ee4fc7f879cb0d477b01a7e
+SHA256: 7387b62eacee537abdb8659ba37db02bafcfc1a8615fe0a720e5fcc291d47858
+Icon: https://repo.dynastic.co/data/static/version/227263359882362880/227263360117243904?size=180
+
+Package: com.revulate.chromagram
+Name: ChromaGram
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: A personalized touch for Instagram
+Maintainer: Revulate <revulate1@gmail.com>
+Author: Revulate
+Section: Tweaks
+Icon: https://repo.dynastic.co/data/static/version/223288445236150272/223289214257594368?size=180
+Version: 1.2
+Installed-Size: 528
+Filename: download/223288445085155328/223288445236150272.deb
+Depiction: https://repo.dynastic.co/depiction/223288445085155328/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/223288445085155328/
+Size: 167904
+MD5sum: 4fcb824fa0c86091fdfa2411833f1726
+SHA1: a689479234494cf0f4393fe5ecda9e13925a275c
+SHA256: 2dadff0dbf9ffb3689c9a7e6345bbd1863ae5c4ec129b365d40425fef5fa260d
+
+Package: com.revulate.freebird
+Name: FreeBird
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: A personalized touch for Twitter
+Maintainer: Revulate <revulate1@gmail.com>
+Author: Revulate
+Section: Tweaks
+Icon: https://repo.dynastic.co/data/static/version/223287237943492608/223288134870237184?size=180
+Version: 0.7
+Installed-Size: 408
+Filename: download/223287237796691968/223287237943492608.deb
+Depiction: https://repo.dynastic.co/depiction/223287237796691968/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/223287237796691968/
+Size: 121412
+MD5sum: ff5d66d02940235be375843f31d5abaa
+SHA1: d1e50e19faf24dd236737425dc3a97cd864705bc
+SHA256: cef91a8aaf3a0e45fce28c021c076b35e999189bc5066787868a202ee0fd2605
+
+Package: com.revulate.groovetube
+Name: GrooveTube
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: A personalized touch for YouTube
+Maintainer: Revulate <revulate1@gmail.com>
+Author: Revulate
+Section: Tweaks
+Icon: https://repo.dynastic.co/data/static/version/223285621194489856/223286656336134144?size=180
+Version: 1.0
+Installed-Size: 424
+Filename: download/223285621089632256/223285621194489856.deb
+Depiction: https://repo.dynastic.co/depiction/223285621089632256/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/223285621089632256/
+Size: 129236
+MD5sum: 1259f5596b0815ff9f128ab3ad51dc03
+SHA1: c3858af9aa2a07ed84de193cada72b2a04f29f6d
+SHA256: a73a85e4ba7a63c6a37dbd75882749fa1058f29f18217392f296b9af3ecac4f8
+
+Package: com.revulate.groovify
+Name: Groovify
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: A personalized touch for Spotify
+Maintainer: Revulate <revulate1@gmail.com>
+Author: Revulate
+Section: Tweaks
+Icon: https://repo.dynastic.co/data/static/version/223283279548121088/223285136156786688?size=180
+Version: 1.2.2
+Installed-Size: 548
+Filename: download/223283279317434368/223283279548121088.deb
+Depiction: https://repo.dynastic.co/depiction/223283279317434368/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/223283279317434368/
+Size: 184044
+MD5sum: a098631ec2b3e0d8619d63646e777622
+SHA1: efff13e495ad79a1108d12dd547012187651ced5
+SHA256: 80c0521542d2c276c202655e79c4fe61b6ed07dff6d9b0515f2231665034689a
+
+Package: com.revulate.harmony
+Name: Harmony
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: Add a personalized touch to Discord
+Maintainer: Revulate <revulate1@gmail.com>
+Author: Revulate
+Section: Tweaks
+Version: 1.4.5
+Installed-Size: 736
+Filename: download/223014491867054080/223014492806578176.deb
+Depiction: https://repo.dynastic.co/depiction/223014491867054080/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/223014491867054080/
+Size: 348590
+MD5sum: bd63214c5491b54a4eee2125689ccc53
+SHA1: 205031c9019020d6a7d61e538d3a9967587959ac
+SHA256: 6887c08943963699e54255c8ab1ea49ec7142afa95d08454772cd2e7709f32a3
+Icon: https://repo.dynastic.co/data/static/version/223014492806578176/223282507477417984?size=180
+
+Package: com.23aaron.zezelite
+Name: ZEZE (Lite)
+Version: 1.1.3
+Architecture: iphoneos-arm
+Description: A Tropical Icon theme. (Stock Icons only) — What separates ZEZE (Lite) from other themes?
+Author: 23 Aaron
+Maintainer: 23 Aaron
+Section: Themes
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard
+Filename: download/204604127634784256/215817493543911424.deb
+Depiction: https://repo.dynastic.co/depiction/204604127634784256/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/204604127634784256/
+Size: 10450444
+MD5sum: 5a4aba732a562c03cbeeadebf9c285bf
+SHA1: 92713eba344d798f8eadcacfbb572923c77f5ba7
+SHA256: 616b21bdf16f6f15ffe47d76d0d7926d17c4689f1b3aff2dd09a7a64fd6fd30e
+Icon: https://repo.dynastic.co/data/static/version/215817493543911424/215817493736849408?size=180
+
+Package: xyz.royalapps.rainbow
+Name: Rainbow
+Depends: mobilesubstrate,preferenceloader,ws.hbang.common (>= 1.11),firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Beauty is just over the rainbow. — Take control of your system's tint color with Rainbow.
+Maintainer: Justin Proulx
+Author: Justin Proulx
+Section: Tweaks
+Version: 1.0.5
+Installed-Size: 664
+Filename: download/203363356462022656/208116964759961600.deb
+Depiction: https://repo.dynastic.co/depiction/203363356462022656/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/203363356462022656/
+Size: 118212
+MD5sum: c988022a6da671953a0fa8474b82a69b
+SHA1: 9f4e5ca38c53ce36549aeac81e092d397ad85319
+SHA256: ba51ad7d8d68f2ab3b5db8f8708e27bf84f8f67011fc8c839cb1f0572d4e2b48
+Icon: https://repo.dynastic.co/data/static/version/208116964759961600/208116964986454016?size=180
+Tag: cydia::commercial
+
+Package: de.saadat603.glyphx
+Name: GlyphX
+Version: 1.0
+Architecture: iphoneos-arm
+Description: AIO Glyph Package — #### High Quality Glyphs, made for your iDevice
+Author: Saadat Baig
+Maintainer: Saadat603
+Section: Themes
+Filename: download/210378424227725312/210378424382914560.deb
+Depiction: https://repo.dynastic.co/depiction/210378424227725312/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/210378424227725312/
+Size: 18510220
+MD5sum: f85b1514ec220000f3056690d6f3b5bb
+SHA1: dfc74f026f820f605d72ff1a6f5493bd6e98d5c7
+SHA256: 7eb9b144fd26485cd0076823f14a5b32c1a7defda2d3bafa60735e37721cbb8c
+Icon: https://repo.dynastic.co/data/static/version/210378424382914560/210379486170972160?size=180
+
+Package: com.dave1482.powerapp
+Pre-Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerappbeta
+Name: PowerApp
+Version: 4.4.0
+Architecture: iphoneos-arm
+Description: Reboot, Shutdown, Respring, and more easily —  Supports iOS 3.0-iOS 12.4+
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Author: dave1482
+Section: Utilities
+dev: thedave1482
+Depiction: https://repo.dynastic.co/depiction/155770023053361152/
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Icon: https://repo.dynastic.co/data/static/version/174614801740201984/174614801924751360?size=180
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: download/155770023053361152/174614801740201984.deb
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/155770023053361152/
+Size: 229292
+MD5sum: 528cfc48d979facb8ab3cd1103d72dfa
+SHA1: 2909dce85bdfd90d93369896d26722637470a3f1
+SHA256: b9dd74c3a12c5ecb9c3ee63ec7b66f6d4cc6dd1ca5dccf93f079cc72626fb4bc
+
+Package: com.aesthyrica.twae
+Name: Twae
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Twitter/Twttr Font Changer — Change the Twitter/Twttr app fonts.
+Maintainer: aesthyrica
+Author: aesthyrica
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 296
+Filename: download/157948129860124672/158278423343529984.deb
+Depiction: https://repo.dynastic.co/depiction/157948129860124672/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/157948129860124672/
+Size: 20446
+MD5sum: 909e081703dd0d9c94fc11d446e0c3b5
+SHA1: bd8932c65eb6475d08ce47b9c6124eee0a2c840a
+SHA256: e25111c3dc201d3f99898127cdbce70e2d9803184f39382723e810bf14bce199
+Icon: https://repo.dynastic.co/data/static/version/158278423343529984/158278423448387584?size=180
+
+Package: com.neinzedd9.notepad
+Name: Notepad
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Quickly take notes on your Lock screen. — Supports iOS 11 to 12.1.3.
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Section: Tweaks
+Version: 1.2.3
+Installed-Size: 328
+Filename: download/157258470649757696/169014436038705152.deb
+Depiction: https://repo.dynastic.co/depiction/157258470649757696/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/157258470649757696/
+Size: 24246
+MD5sum: b7e11e39f6075eaa4a66bfad5da7429a
+SHA1: f7feb646147ea028a4a9fd0e19f0f0f32e89d88f
+SHA256: a0744031d662070f631725563d6be75ebc2921213bd9e02b0128c908d81a49f4
+Icon: https://repo.dynastic.co/data/static/version/169014436038705152/169014436172922880?size=180
+Tag: cydia::commercial, cydia::commercial
+
+Package: com.blakeboxberger.pridebars
+Name: PrideBars
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Show pride in your carrier signal bars! — ###### PrideBars supports the iPhone X status bar. To use PrideBars with a non-iPhone X, install HomeGesture (https://repo.dynastic.co/package/com.vitataf.homegesture) by MidnightChips.
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Section: Tweaks
+Version: 1.0.3
+Installed-Size: 136
+Filename: download/158839260852518912/169013390751039488.deb
+Depiction: https://repo.dynastic.co/depiction/158839260852518912/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/158839260852518912/
+Size: 5848
+MD5sum: e46a7f440442183134c3e18c448508de
+SHA1: 47bdc432393a0e000dfa15e4b708a4a0df4ddb39
+SHA256: bbc04a6d00670d2b50977c1156de823ede58fd3bd8dfdc664a246be342ec5477
+Icon: https://repo.dynastic.co/data/static/version/169013390751039488/169013390889451520?size=180
+
+Package: com.vitataf.homegesture
+Name: HomeGesture
+Pre-Depends: com.spark.libsparkapplist
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: Enable iPhone X HomeGestures on other devices. — # Get the iPhone X Experience without the ridiculous cost!
+Maintainer: MidnightChips/PINPAL
+Author: MidnightChips
+Section: Tweaks
+Icon: https://repo.dynastic.co/data/static/version/155448778055221248/164323643344551936?size=180
+Version: 2.1.4
+Installed-Size: 3244
+Filename: download/94936559895183360/155448778055221248.deb
+Depiction: https://repo.dynastic.co/depiction/94936559895183360/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/94936559895183360/
+Size: 2278274
+MD5sum: bb6b4ecfa15fa25ad8cebf7b43b129b8
+SHA1: 50f884cc26a28bf8e424d147d76f02773a1799f2
+SHA256: f3c9c90d82a520c7305b64e7e228946745a3f5a1ee8a70f4b1cd787971ca9ef5
+
+Package: com.blakeboxberger.honey
+Name: Honey
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.blakeboxberger.dockremover
+Architecture: iphoneos-arm
+Description: The watchOS app launcher, now on your iOS device! — Supports iOS 11 and 12.
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Tag: cydia::commercial, cydia::commercial
+Section: Tweaks
+Version: 1.0.2
+Installed-Size: 384
+Filename: download/202507271819755520/203335839252480000.deb
+Depiction: https://repo.dynastic.co/depiction/202507271819755520/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/202507271819755520/
+Size: 59274
+MD5sum: c3adda634ca6ebd0cc59b493c6e20675
+SHA1: c9600b6b64f7fc119ef2ef8ad8fa8ce00bc4f55c
+SHA256: 2e14b0dda31a600c58e324e5a801ebebab24d3a01330de1e15160e62a6f3a325
+Icon: https://repo.dynastic.co/data/static/version/203335839252480000/203335839432835072?size=180
+
+Package: com.blackhole.Gesto
+Name: Gesto
+Version: 1.3.2
+Description: True Multitasking — Supports all iPhones and iPads on iOS 11 and 12.
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Alessandro Chiarlitti and Gabriele Filipponi
+dev: gabriele filipponi
+Homepage: https://aesign.me/gesto
+Depiction: https://repo.dynastic.co/depiction/176619415092068352/
+Maintainer: Gabriele Filipponi & Alessandro Chiarlitti (aesign)
+Icon: https://repo.dynastic.co/data/static/version/201365877868724224/201365878086828032?size=180
+Filename: download/176619415092068352/201365877868724224.deb
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/176619415092068352/
+Size: 1158208
+MD5sum: 5dfa9a731f2f9dfdeb9a1128cf679deb
+SHA1: 468cd9515c4c215414a4a7871d977827f1289c12
+SHA256: 86cb989208b0b141ef52749455cba2ac684929baada053a910b33afa587d900c
+Tag: cydia::commercial
+
+Package: com.neinzedd9.shortlook.plugin.contact-photo.snapchat
+Name: Snapchat Bitmoji for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Snapchat users' Bitmoji in ShortLook when you receive a Snapchat notification!
+Maintainer: Dynastic
+Author: Dynastic
+Section: Tweaks (ShortLook)
+Version: 1.0.4.1
+Installed-Size: 104
+Filename: download/68414704023764992/181996087609917440.deb
+Depiction: https://repo.dynastic.co/depiction/68414704023764992/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/68414704023764992/
+Size: 6300
+MD5sum: c5adeacc8418a83a6bd5bfaf31fd06a7
+SHA1: c4229e8cb8297c42ec27f9d2a3ecec1d5d7c0648
+SHA256: 78c41ccc71930babc839b9fba5b0ac946aa3b166e24aec86eb7d7b11bab7ce52
+Icon: https://repo.dynastic.co/data/static/version/181996087609917440/181996464833036288?size=180
+
+Package: ru.pvmntsdev.TwitterLabs
+Name: Twitter Labs
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Unleash Your Twitter Experience — ### Support Twitter Version 7.57.5
+Maintainer: Aesthyrica
+Author: aesthyrica
+Section: Tweaks
+Version: 1.0.6
+Installed-Size: 824
+Filename: download/130339699561594880/195863786517692416.deb
+Depiction: https://repo.dynastic.co/depiction/130339699561594880/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/130339699561594880/
+Size: 143648
+MD5sum: 4ea5c2b48085ed045195d3772d56cf86
+SHA1: 2fb603916769b964cfe208c2a16d35f55855fb03
+SHA256: bfa95d40487b0d202ed96659e48ab14704fef0f12a127c365deb9e1bf878eb4a
+Icon: https://repo.dynastic.co/data/static/version/195863786517692416/195863786723213312?size=180
+
+Package: applebetas.ios.tweak.willow
+Name: Ultrasound
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Architecture: iphoneos-arm
+Description: The volume HUD you deserve. — Supports iOS 11 and 12.
+Maintainer: Ayden Panhuyzen
+Author: Ayden Panhuyzen
+Section: Tweaks
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud
+Version: 1.2.9
+Installed-Size: 964
+Filename: download/88709621761441792/193641179340865536.deb
+Depiction: https://repo.dynastic.co/depiction/88709621761441792/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/88709621761441792/
+Size: 248078
+MD5sum: bad1060418a5a963fb3fc49c815fe913
+SHA1: 8ac83ae37fd174230889b85d93c3bcb3534294b4
+SHA256: 25709f8a3cdac3d5578d881a40cdfb78ffcbfbe75ac3e0154a2698b864485145
+Icon: https://repo.dynastic.co/data/static/version/193641179340865536/193641179886125056?size=180
+
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Author: MidnightChips
+Description: iOS Time Machine — Disclaimer: SnapBack has been tested thoroughly, but there are still very small chances of failure. I am not responsible for anything that may happen to your device.
+Maintainer: MidnightChips
+Name: SnapBack
+Package: me.midnightchips.snapback
+Section: Utilities
+Icon: https://repo.dynastic.co/data/static/version/191583451088945152/191583947631624192?size=180
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/191583450921172992/
+Depiction: https://repo.dynastic.co/depiction/191583450921172992/
+Version: 2.0.0
+Installed-Size: 1228
+Filename: download/191583450921172992/191583451088945152.deb
+Size: 544522
+MD5sum: 6417d3d86bc03f860bd2f1da6fc05bc4
+SHA1: 2641039945836979a5c9dba395bd89b87a2b83e3
+SHA256: bd3a700213251a79c49f3df125967783d1ae1df5d95fe4870481d773668ccf2c
+
+Package: design.luminant.darkstacks
+Name: DarkStacks
+Version: 1.0
+Section: Themes
+Architecture: iphoneos-arm
+Description: A darker outlook on your icons. — ### A darker outlook, now on your favorite theme.
+Author: Luminant Design
+Filename: download/190997714270420992/190997714333335552.deb
+Depiction: https://repo.dynastic.co/depiction/190997714270420992/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/190997714270420992/
+Size: 1443840
+MD5sum: 31c464d8bc88150f7fd3b2fe10be5354
+SHA1: 68c994116bed131ff614c3f6ea5817f1da4961ef
+SHA256: 7273f4ab05529e8a278d71f075519bad4a0373a957d5b1955392f0bb931d007d
+Icon: https://repo.dynastic.co/data/static/version/190997714333335552/191639028813004800?size=180
+
+Package: com.blakeboxberger.homelist-demo
+Name: HomeList (Demo)
+Depends: mobilesubstrate
+Conflicts: com.blakeboxberger.homelist
+Architecture: iphoneos-arm
+Description: An alphabetical, list-based app launcher! — Supports iOS 11 and 12.
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Section: Tweaks
+Version: 2.0
+Installed-Size: 528
+Filename: download/169008607747112960/186988956838002688.deb
+Depiction: https://repo.dynastic.co/depiction/169008607747112960/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/169008607747112960/
+Size: 82396
+MD5sum: 13646d24570078d5de087038cf541d56
+SHA1: ca959f77e4b7e1032e53cc55f7bf8383c4fdd44a
+SHA256: 371406c497a19f9028ff167d1e47e33a10a9ae6e7cb202db872abe017a4df33a
+Icon: https://repo.dynastic.co/data/static/version/186988956838002688/186988957039329280?size=180
+
+Package: com.blakeboxberger.homelist
+Name: HomeList
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.blakeboxberger.homelist
+Architecture: iphoneos-arm
+Description: An alphabetical, list-based app launcher! — Supports iOS 11 and 12.
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Tag: cydia::commercial, cydia::commercial
+Section: Tweaks
+Version: 2.0
+Installed-Size: 528
+Filename: download/169002358271901696/186975746676228096.deb
+Depiction: https://repo.dynastic.co/depiction/169002358271901696/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/169002358271901696/
+Size: 81616
+MD5sum: 1007bdb649e55b08dfef586f6a389e64
+SHA1: cbe1a7adfdd02ab1ccaf80d15a09b23c320ce4c0
+SHA256: 17215008ea2ba80cc1405ee8d70956b9dac0470c100e53f3eaf660bd46684a7f
+Icon: https://repo.dynastic.co/data/static/version/186975746676228096/186975746877554688?size=180
+
+Package: ca.kirara.voltage
+Name: Eyeplugs
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Description: Suppress banners in apps — Eyeplugs blocks notification banners in the apps you choose.
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Author: tri___angle
+Section: Tweaks
+Depiction: https://repo.dynastic.co/depiction/174979338758782976/
+Version: 1.5.1
+Installed-Size: 488
+Filename: download/174979338758782976/185664707166732288.deb
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/174979338758782976/
+Size: 33888
+MD5sum: 8a1235de2cff5cafe3e050b45380b498
+SHA1: c8db11f22234953cb361a0057a3203acfe598c66
+SHA256: bb45e6affcaccabc5b22ae66d33f441974a954e7b8884a97217bc7dd68b669e2
+Icon: https://repo.dynastic.co/data/static/version/185664707166732288/185664707334504448?size=180
+
+Package: xyz.royalapps.goodmorning
+Name: Good Morning
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Start your day the right way. — Good Morning is a tweak that opens an app of your choice every morning when you wake up.
+Maintainer: Justin Proulx
+Author: Justin Proulx
+Section: Tweaks
+Version: 1.0.3
+Installed-Size: 236
+Filename: download/135978265020989440/184720696549572608.deb
+Depiction: https://repo.dynastic.co/depiction/135978265020989440/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/135978265020989440/
+Size: 29334
+MD5sum: 6c9df9cce8df2e9f0e8487b89e4ae7e1
+SHA1: 40836e7eaac48ef859e33bce0718979108a11474
+SHA256: ce33e6308b837558c76858ed434b2948d664fa71e70dce399cb99ec3364e54a3
+Icon: https://repo.dynastic.co/data/static/version/184720696549572608/184720696734121984?size=180
+
+Package: ca.menushka.hideyourapps
+Name: HideYourApps
+Depends: mobilesubstrate, applist
+Architecture: iphoneos-arm
+Description: Hide apps from your Home screen — Supports iOS 11 and 12.
+Maintainer: Menushka Weeratunga
+Author: Menushka Weeratunga and Blake Boxberger
+Section: Tweaks
+Version: 1.2.1
+Installed-Size: 320
+Filename: download/183738279181418496/183779023837462528.deb
+Depiction: https://repo.dynastic.co/depiction/183738279181418496/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/183738279181418496/
+Size: 27728
+MD5sum: 9508fe656d509dec8839a361c9512c04
+SHA1: 93e5bec3174803ed372fc2ec2abbe3cfb3816178
+SHA256: a5d562cb23c39bad6ea242f094da02304603439b3ddc202257a7f673dfe32e70
+Icon: https://repo.dynastic.co/data/static/version/183779023837462528/183779024017817600?size=180
+
+Package: com.blakeboxberger.dockremover
+Name: DockRemover
+Depends: mobilesubstrate
+Conflicts: com.blakeboxberger.homelist, com.blakeboxberger.homelist-demo
+Architecture: iphoneos-arm
+Description: Remove the dock from your Home screen!  — Supports iOS 11 and 12.
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 136
+Filename: download/181985465451151360/181985465597952000.deb
+Depiction: https://repo.dynastic.co/depiction/181985465451151360/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/181985465451151360/
+Size: 2966
+MD5sum: 9cc06cfbd40a9c2f6f0d662bbc5efd1d
+SHA1: 27ec75e9ca9432391fadb9e2f94a5836b7b2d2eb
+SHA256: 9edc740b4a4fa85a51641767e4bafd62c6bde4120864223981033c0d30201fdb
+Icon: https://repo.dynastic.co/data/static/version/181985465597952000/181985866527277056?size=180
+
+Package: com.blakeboxberger.lockdock-demo
+Name: LockDock (Demo)
+Depends: mobilesubstrate
+Conflicts: com.blakeboxberger.lockdock
+Architecture: iphoneos-arm
+Description: Add your dock to your Lock screen for quick and easy access to your favorite apps!
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Section: Tweaks
+Version: 1.0.5
+Installed-Size: 352
+Filename: download/181540578180202496/181555729470062592.deb
+Depiction: https://repo.dynastic.co/depiction/181540578180202496/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/181540578180202496/
+Size: 46388
+MD5sum: 0bddafdedb9dd016b6f5f229f1cd7a32
+SHA1: 70a20d47ed2db74be0c2edf69e7798352d07c12b
+SHA256: b1015a17b4329d469723cd9dc58594184b8e3a7379f32d9be9e1ff2400f34797
+Icon: https://repo.dynastic.co/data/static/version/181555729470062592/181555729642029056?size=180
+
+Package: com.blakeboxberger.lockdock
+Name: LockDock
+Depends: mobilesubstrate
+Tag: cydia::commercial, cydia::commercial
+Architecture: iphoneos-arm
+Description: Add your dock to your Lock screen for quick and easy access to your favorite apps!
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Section: Tweaks
+Version: 1.0.5
+Installed-Size: 352
+Filename: download/160678721135575040/181912260904484864.deb
+Depiction: https://repo.dynastic.co/depiction/160678721135575040/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/160678721135575040/
+Size: 45722
+MD5sum: 08b6f732575cfab96a94979a0988fcf2
+SHA1: 4ebeb5a5e474f2943ebf1ce348c2b00a7f85dbe3
+SHA256: e2fd842d163596e5cb849eaa1a5212f62a0ea52c99860a9f471fc2234198875c
+Icon: https://repo.dynastic.co/data/static/version/181912260904484864/181912261198086144?size=180
+
+Package: com.jeffresc.shortlook.plugin.contact-photo.tiktok
+Name: TikTok Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show TikTok users' profile pictures in ShortLook when you receive a TikTok notification!
+Maintainer: JeffResc
+Author: JeffResc
+Section: Tweaks (ShortLook)
+Version: 1.0.0
+Installed-Size: 152
+Filename: download/181240257776189440/181240258438889472.deb
+Depiction: https://repo.dynastic.co/depiction/181240257776189440/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/181240257776189440/
+Size: 5428
+MD5sum: 68f088bac71f2523173446f5e3ba6df3
+SHA1: 757ba8bec25d9bbb3d4d3721d413f4479bb4eaad
+SHA256: c5ceb34776219ed7d9732ffde7900d26755a34929c21f65750e2e9efc147b6be
+Icon: https://repo.dynastic.co/data/static/version/181240258438889472/181240636744138752?size=180
+
+Package: com.easy-z.npf
+Name: NPF
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, me.nepeta.libcolorpicker
+Architecture: iphoneos-arm
+Description: NPF is a small tweak to customize your Phone app. You can change the radius, height, width and the color of the number pad buttons.
+Maintainer: Eazy-Z & Karimo299
+Author: Easy-Z
+Section: Tweaks
+Version: 2.2.2
+Installed-Size: 920
+Filename: download/164569512987852800/179838132357693440.deb
+Depiction: https://repo.dynastic.co/depiction/164569512987852800/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/164569512987852800/
+Size: 649206
+MD5sum: bdfaf799a7b693e11f2747046fd3610f
+SHA1: 655e153a5fea2ba7225c1b8b0345837fd8c76132
+SHA256: a6a6d8b2a7d3112f78eae22d3dc47e01f48670992ffe7231551003092d191b48
+Icon: https://repo.dynastic.co/data/static/version/179838132357693440/179838132521271296?size=180
+
+Package: com.midnightchips.bettersettings
+Name: BetterSettings
+Depends: mobilesubstrate, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: Settings Your Way. — Complete customization of the settings app. Allows setting custom color, cell shape, background image, text color and more.
+Maintainer: midnightchips
+Author: MidnightChips
+Section: Tweaks
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/94936478274027520/
+Icon: https://repo.dynastic.co/data/static/version/179786935865180160/179786936137809920?size=180
+Depiction: https://repo.dynastic.co/depiction/94936478274027520/
+Version: 0.1.3
+Installed-Size: 1964
+Filename: download/94936478274027520/179786935865180160.deb
+Size: 1242046
+MD5sum: e0f3444ee19be1830d2126e8fcbf4288
+SHA1: cc42cfc604b0a1f0ccf12a1793a2599ebc194c69
+SHA256: 731c1a31cd807d8f6199269b696653fe2ccc11b61e3be67e4be7faae03cfc2b3
+
+Package: com.jacc.wiivamp
+Name: Wiivamp
+Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Play your favorite Wii songs inside of any app. — ### Nostalgia. At it's finest.
+Maintainer: jacc
+Author: jacc
+Section: Tweaks
+compatible_min: :11.0
+compatible_max: :12.1.2
+Version: 3.2
+Installed-Size: 27584
+Filename: download/151868892849897472/177591091384549376.deb
+Depiction: https://repo.dynastic.co/depiction/151868892849897472/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/151868892849897472/
+Size: 27681890
+MD5sum: cf42317e9862ff4153c4d020c1a2ca7a
+SHA1: 9e7b06592820c3f4a1b1b23a0cdb02e39a1299d0
+SHA256: 220bf84df7224878c7b7aa12aafba5bdecb618e4d0991522a0803575014b83e1
+Icon: https://repo.dynastic.co/data/static/version/177591091384549376/179483444739309568?size=180
+
+Package: xyz.royalapps.cleanhomescreen
+Name: Clean Home Screen
+Depends: mobilesubstrate,preferenceloader
+Architecture: iphoneos-arm
+Description: Does it spark joy? — Clean Home Screen helps you remove all the clutter from your home screen and lock screen, offering you a simple and clean app launching experience!
+Maintainer: Justin Proulx
+Author: Justin Proulx
+Section: Tweaks
+Version: 1.0.4
+Installed-Size: 348
+Filename: download/68819165334470656/179410432765722624.deb
+Depiction: https://repo.dynastic.co/depiction/68819165334470656/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/68819165334470656/
+Size: 23146
+MD5sum: 03c9029b619211127cc28241283dd8e2
+SHA1: 6e951bb7f15b772336966221ba23251f1732d776
+SHA256: 5e548174d50c0aa8f5584d7373279f3444835b8e45b0a162072b23ce26f79ad0
+Icon: https://repo.dynastic.co/data/static/version/179410432765722624/179410433004797952?size=180
+Homepage: http://royalapps.xyz/?src=ddrepochs
+
+Package: ch.marcoroth.shortlook.plugin.contact-photo.linkedin
+Name: LinkedIn Contact Photos for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show LinkedIn contacts' photos in ShortLook when you receive a LinkedIn notification!
+Maintainer: Marco Roth
+Author: Marco Roth
+Section: Tweaks (ShortLook)
+Version: 1.0.1
+Installed-Size: 152
+Filename: download/157826249249521664/177771780381868032.deb
+Depiction: https://repo.dynastic.co/depiction/157826249249521664/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/157826249249521664/
+Size: 5036
+MD5sum: 099433e29795c596cd621580d96be55b
+SHA1: bde41b57b0255212894490cb99a8452fa1a50e50
+SHA256: 43f4c9809602899a95b9ae2235b01da0b9739125168f20c6b086fe434a46ef35
+Icon: https://repo.dynastic.co/data/static/version/177771780381868032/177771780616749056?size=180
+
+Package: ch.marcoroth.shortlook.plugin.contact-photo.xing
+Name: Xing Contact Photos for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Xing contacts' photos in ShortLook when you receive a Xing notification!
+Maintainer: Marco Roth
+Author: Marco Roth
+Section: Tweaks (ShortLook)
+Version: 1.0.1
+Installed-Size: 152
+Filename: download/157826280216068096/177771729949556736.deb
+Depiction: https://repo.dynastic.co/depiction/157826280216068096/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/157826280216068096/
+Size: 5010
+MD5sum: 017ff804f2d8966d904c53dc85cadeba
+SHA1: c4cc25f8965f31a36fcfabaf7aa1d866b371de4e
+SHA256: b348602d59c647bb229cf0a6a133844df1a02c240cb8bd131e394f7b0f1cbfbe
+Icon: https://repo.dynastic.co/data/static/version/177771729949556736/177771730167660544?size=180
+
+Package: com.rango.newnowplaying
+Name: NewNowPlaying
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A new Spotify experience — NewNowPlaying enables a new and modern looking Now Playing UI in the Spotify application by setting the song/album cover as the background.
+Maintainer: Rango
+Author: Yung_Specht
+Section: Tweaks
+Version: 1.2.1
+Installed-Size: 152
+Filename: download/165557328353951744/177889484849807360.deb
+Depiction: https://repo.dynastic.co/depiction/165557328353951744/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/165557328353951744/
+Size: 3570
+MD5sum: 6e28e83358398dda468f982b68a7690b
+SHA1: dd6a04f4fa8cd588af1da5161a6a7e3f7a37c4c5
+SHA256: 86dad9c6a9a3692628ee641b94e49f215338cb8484353038e3bdbd8812a3b8c3
+Icon: https://repo.dynastic.co/data/static/version/177889484849807360/177889485172768768?size=180
+
+Package: ch.marco-roth.shortlook.plugin.contact-photo.whatsapp
+Name: WhatsApp Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show WhatsApp users' profile pictures in ShortLook when you receive a WhatsApp notification!
+Maintainer: Marco Roth
+Author: Marco Roth
+Section: Tweaks (ShortLook)
+Version: 1.1.2
+Installed-Size: 152
+Filename: download/72016938867359744/177770200144281600.deb
+Depiction: https://repo.dynastic.co/depiction/72016938867359744/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/72016938867359744/
+Size: 8514
+MD5sum: 1c4e5a1b9b75c5cb762a9a5079d761f5
+SHA1: 4003fa585818925028a6e1d0b42b77009fad5630
+SHA256: 45c587825c70c878c3a4da99445716a8cac0896958e20cd2ca2ef9732fb69b91
+Icon: https://repo.dynastic.co/data/static/version/177770200144281600/177770200542740480?size=180
+
+Package: com.aceruos.stacks
+Name: Stacks
+Version: 1.1
+Section: Themes
+Architecture: iphoneos-arm
+Description: A new outlook on your icons. — Stacks is currently in Public Beta. This means that there will be updates to the icons, as well as additions to icons. If you would like to request an icon, please join us on our discord at https://aceruos.co/
+Author: Luminant Design
+Filename: download/103943112753152000/177586388173062144.deb
+Depiction: https://repo.dynastic.co/depiction/103943112753152000/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/103943112753152000/
+Size: 4052656
+MD5sum: 05bc7ba7c1c03aa3720e70e3f8754dbc
+SHA1: b15be815cdfbf92e2ab09f42f448d5045bafb76c
+SHA256: a14b40cba249715d034246ba2096f1b430f14b7b0a85a952a927f0e40c8fdaf0
+Icon: https://repo.dynastic.co/data/static/version/177586388173062144/177586388382777344?size=180
+
+Package: com.neinzedd9.bazzi
+Name: Bazzi
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
+Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Tag: cydia::commercial, cydia::commercial
+Architecture: iphoneos-arm
+Description: The ultimate iPhone X battery icon customizer. — Supports iOS 11 and 12.
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Section: Tweaks
+Version: 2.0.6
+Installed-Size: 360
+Filename: download/157229399429611520/176567028948140032.deb
+Depiction: https://repo.dynastic.co/depiction/157229399429611520/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/157229399429611520/
+Size: 33266
+MD5sum: f80ff7ad86cf608baba98eeca6916f9a
+SHA1: 7287cdca579cd69b340cb1ac3c5422a098ac3bb1
+SHA256: bc525ca527c88c33e79886262c43ab822aaeae6e86aea6c4b790ddc68b308866
+Icon: https://repo.dynastic.co/data/static/version/176567028948140032/176567029111717888?size=180
+
+Package: com.midnightchips.cleantab
+Name: Clean Tab
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Clean Up the iOS Tab Bar — Remove the label from the tab bar in apps like Apollo, App Store and more.
+Maintainer: midnightchips
+Author: MidnightChips
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 328
+Filename: download/101801517274628096/176311199510560768.deb
+Depiction: https://repo.dynastic.co/depiction/101801517274628096/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/101801517274628096/
+Size: 25478
+MD5sum: 37b55eeac671d14f1f8bace905637a9e
+SHA1: efb1b272f0b9435b7612e1262fb587540ae0d2b0
+SHA256: b5e932c15f65db60630860a5f30806d90171ebfb8fa16c833d2a7330540c93d7
+Icon: https://repo.dynastic.co/data/static/version/176311199510560768/176311199732858880?size=180
+
+Package: co.dynastic.ios.tweak.shortlook.plugin.contact-photo.twitter
+Name: Twitter Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Twitter users' profile pictures in ShortLook when you receive a Twitter notification!
+Maintainer: AppleBetas
+Author: Dynastic
+Section: Tweaks (ShortLook)
+Version: 1.0.2
+Installed-Size: 184
+Filename: download/70161685805006848/176109719067295744.deb
+Depiction: https://repo.dynastic.co/depiction/70161685805006848/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/70161685805006848/
+Size: 6158
+MD5sum: 99a061d426bca9cfde63ec786c99579b
+SHA1: 2777cc5b49d991ef8dea3c41700bd25084fdf404
+SHA256: 084ef81e5a0f06072212c1e9fa108c1a1e3dd1112d5b983b8b06ba34ead3a74f
+Icon: https://repo.dynastic.co/data/static/version/176109719067295744/176109719285399552?size=180
+
+Package: co.dynastic.ios.tweak.shortlook.plugin.contact-photo.instagram
+Name: Instagram Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Instagram users' profile pictures in ShortLook when you receive an Instagram notification!
+Maintainer: AppleBetas
+Author: Dynastic
+Section: Tweaks (ShortLook)
+Version: 1.0.2
+Installed-Size: 168
+Filename: download/70159857306566656/176109651979403264.deb
+Depiction: https://repo.dynastic.co/depiction/70159857306566656/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/70159857306566656/
+Size: 6006
+MD5sum: c3e2709dd0cdde7e84f90a229a87d5b0
+SHA1: 1f45001bb607a7a1e33dca9f95e575f28ad1b1f7
+SHA256: bcf7b8fe447bc056861c323fd29cd8317baf446ff6f3f96f39c9bcd832aefb38
+Icon: https://repo.dynastic.co/data/static/version/176109651979403264/176109652155564032?size=180
+
+Package: co.dynastic.ios.tweak.shortlook.plugin.contact-photo.discord
+Name: Discord Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Discord users' profile pictures in ShortLook when you receive a Discord notification!
+Maintainer: Dynastic Development
+Author: Dynastic
+Section: Tweaks (ShortLook)
+Version: 1.0.1
+Installed-Size: 152
+Filename: download/152187684494770176/176109343731613696.deb
+Depiction: https://repo.dynastic.co/depiction/152187684494770176/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/152187684494770176/
+Size: 5914
+MD5sum: 4e14cf8574094a24acc9702f08e86e2e
+SHA1: 90d6069295328f5876aa7b92b25dd0496cc6f126
+SHA256: ff7f863fc5a3de86818458f68f2261a6034c993e59c49f1b581f6c8f7ca19782
+Icon: https://repo.dynastic.co/data/static/version/176109343731613696/176109343903580160?size=180
+
+Package: com.rango.artistry
+Name: Artistry
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Song Artworks for every Playlist — This tweaks adds Song Artworks next to every Playlist in the Spotify Application!
+Maintainer: Rango
+Author: Yung_Specht
+Section: Tweaks
+Version: 1.3
+Installed-Size: 152
+Filename: download/169147312122101760/175981637723488256.deb
+Depiction: https://repo.dynastic.co/depiction/169147312122101760/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/169147312122101760/
+Size: 3008
+MD5sum: 86d9510fee56b757907b879629746185
+SHA1: 8041106a885ff98e397268918b4654c98dbbb585
+SHA256: f22c79bc174c64af6d6b0b1968960573b445adfe623c8219270b88bb806525a2
+Icon: https://repo.dynastic.co/data/static/version/175981637723488256/175981637899649024?size=180
+
+Package: xyz.royalapps.priority
+Name: Priority
+Depends: mobilesubstrate,preferenceloader, com.rpetrich.rocketbootstrap, applist, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Never miss an important message again. — Priority allows you to prioritize notifications from certain apps, making sure you never miss another important notification.
+Maintainer: AppleBetas and Justin Proulx
+Author: Justin Proulx and Ayden Panhuyzen
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 248
+Filename: download/86938175611600896/175832516815486976.deb
+Depiction: https://repo.dynastic.co/depiction/86938175611600896/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/86938175611600896/
+Size: 27382
+MD5sum: febed3882ab56ffcf70f22963f65e640
+SHA1: 34960c45def013095441429bc0eca20d42d4d18b
+SHA256: 5413cb12e8be362f0d369d4246a5fa4b813613f503b414538778371fe9bbe256
+Icon: https://repo.dynastic.co/data/static/version/175832516815486976/175832516958093312?size=180
+
+Package: com.jeffresc.shortlook.plugin.contact-photo.twitch
+Name: Twitch Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Twitch users' profile pictures in ShortLook when you receive a Twitch notification!
+Maintainer: JeffResc
+Author: JeffResc
+Section: Tweaks (ShortLook)
+Version: 1.0
+Installed-Size: 152
+Filename: download/152826909623844864/152826909745479680.deb
+Depiction: https://repo.dynastic.co/depiction/152826909623844864/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/152826909623844864/
+Size: 5538
+MD5sum: 3b88cf22ac10f97281d121437f805f57
+SHA1: 17ce68b739f73ef963b201880b3e4662065cd1e3
+SHA256: 8bee44a3c5ee18a7447fb881003d2e1f4a6bbfc44b74a850b70cd3fe49f79fbe
+Icon: https://repo.dynastic.co/data/static/version/152826909745479680/154294543313797120?size=180
+
+Package: com.jeffresc.meteoroid
+Name: Meteoroid
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Set your wallpaper from various NASA sources — Set your wallpaper from various NASA sources
+Maintainer: JeffResc <jeff@jeffresc.com>
+Author: JeffResc
+Section: Tweaks
+Version: 1.0.2
+Installed-Size: 336
+Filename: download/160258789914705920/175827958181658624.deb
+Depiction: https://repo.dynastic.co/depiction/160258789914705920/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/160258789914705920/
+Size: 43732
+MD5sum: 0cf684daa5378c54a8af29d81aac0930
+SHA1: deb4f1d7a922affd1212d93180d21224e9296fed
+SHA256: a221baa0f2dc43eb173c813270c6ba4d75a31743ec7d7f18646d530bc16141ea
+Icon: https://repo.dynastic.co/data/static/version/175827958181658624/175827958504620032?size=180
+
+Package: com.jeffresc.shortlook.plugin.contact-photo.youtube
+Name: YouTube Profile Photos for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show YouTube creators' profile pictures in ShortLook when you receive a YouTube upload notification!
+Maintainer: JeffResc
+Author: JeffResc
+Section: Tweaks (ShortLook)
+Version: 1.0.1
+Installed-Size: 152
+Filename: download/95010765106315264/175799378219368448.deb
+Depiction: https://repo.dynastic.co/depiction/95010765106315264/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/95010765106315264/
+Size: 5414
+MD5sum: 130f85a05aa149f35a9bd641752799b3
+SHA1: 0d5557fdc647b549c1549420ef2c1f4c9d147a49
+SHA256: 82b1b0297d564869873b06de250a4c12483d7eac8742a3ce7b0e088983e351e3
+Icon: https://repo.dynastic.co/data/static/version/175799378219368448/175799379075006464?size=180
+
+Package: com.jeffresc.shortlook.plugin.contact-photo.kik
+Name: Kik Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Kik users' profile pictures in ShortLook when you receive a Kik notification!
+Maintainer: JeffResc
+Author: JeffResc
+Section: Tweaks (ShortLook)
+Version: 1.0.3
+Installed-Size: 152
+Filename: download/72025377458880512/175799256584552448.deb
+Depiction: https://repo.dynastic.co/depiction/72025377458880512/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/72025377458880512/
+Size: 5716
+MD5sum: b3067e923b96307d901609bb741d3431
+SHA1: 0e63918a020390bed7e9c24e1514cd1031cd03b1
+SHA256: 83ddca225b4b726c55ab7b14d8b3f8767e04b4ebd223042811cbf9162525ca03
+Icon: https://repo.dynastic.co/data/static/version/175799256584552448/175799259122106368?size=180
+
+Package: com.jeffresc.shortlook.plugin.contact-photo.messenger
+Name: Messenger Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Messenger users' profile pictures in ShortLook when you receive a Messenger notification!
+Maintainer: JeffResc
+Author: JeffResc
+Section: Tweaks (ShortLook)
+Version: 1.0.2
+Installed-Size: 152
+Filename: download/72007980576407552/175799101751820288.deb
+Depiction: https://repo.dynastic.co/depiction/72007980576407552/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/72007980576407552/
+Size: 5588
+MD5sum: 121840f78d47cec5fbe230015389abef
+SHA1: cd0074e43c8afd7f8704a72466b3c1268e2d7a54
+SHA256: 2a7e2694fac265876127fbe757466602cd54c90e515308cb936b0f75db105d30
+Icon: https://repo.dynastic.co/data/static/version/175799101751820288/175799102066393088?size=180
+
+Package: com.jeffresc.shortlook.plugin.contact-photo.skype
+Name: Skype Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Skype users' profile pictures in ShortLook when you receive a Skype notification!
+Maintainer: JeffResc
+Author: JeffResc
+Section: Tweaks (ShortLook)
+Version: 1.0.1
+Installed-Size: 152
+Filename: download/152314376315994112/175799017328869376.deb
+Depiction: https://repo.dynastic.co/depiction/152314376315994112/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/152314376315994112/
+Size: 5980
+MD5sum: 3aacc92670f66d82a883016a3c52dfe1
+SHA1: 38cf8f0269d696d8cf72d2c2e20e9ab0dcae319e
+SHA256: 212cd3495ffd213340ee701ef8da03934089b39d26ea93b989c50b34bd645115
+Icon: https://repo.dynastic.co/data/static/version/175799017328869376/175799017488252928?size=180
+
+Package: com.jeffresc.shortlook.plugin.contact-photo.pinterest
+Name: Pinterest Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Pinterest users' profile pictures in ShortLook when you receive a Pinterest notification!
+Maintainer: JeffResc
+Author: JeffResc
+Section: Tweaks (ShortLook)
+Version: 1.0.1
+Installed-Size: 152
+Filename: download/152826229559394304/175798913876361216.deb
+Depiction: https://repo.dynastic.co/depiction/152826229559394304/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/152826229559394304/
+Size: 5408
+MD5sum: e98a6833fb67a1afa4eb736e52aa2c39
+SHA1: 300d6402dd69a884d543f6167f12ac8a47ce848f
+SHA256: ea213168276e3d02ae675b56255050b83525ed7fb2d8c8fb42289f54afa533e8
+Icon: https://repo.dynastic.co/data/static/version/175798913876361216/175798914014773248?size=180
+
+Package: com.jeffresc.shortlook.plugin.contact-photo.steam
+Name: Steam Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Steam users' profile pictures in ShortLook when you receive a Steam notification!
+Maintainer: JeffResc
+Author: JeffResc
+Section: Tweaks (ShortLook)
+Version: 1.0.1
+Installed-Size: 152
+Filename: download/152826545700864000/175798837368061952.deb
+Depiction: https://repo.dynastic.co/depiction/152826545700864000/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/152826545700864000/
+Size: 6220
+MD5sum: 0e7244a1fe635e948f264da69ab65933
+SHA1: 619d2e66c01fa05984e934231cd43b2ce6b9f8d1
+SHA256: 9ff21cfcb2fe8d91fb75415f5d7d74b5afdd4187575ae3e92e1f6e3962cd1869
+Icon: https://repo.dynastic.co/data/static/version/175798837368061952/175798837816852480?size=180
+
+Package: com.jeffresc.shortlook.plugin.contact-photo.tweetbot
+Name: Tweetbot Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Twitter users' profile pictures in ShortLook when you receive a Tweetbot notification!
+Maintainer: JeffResc
+Author: JeffResc
+Section: Tweaks (ShortLook)
+Version: 1.0.1
+Installed-Size: 152
+Filename: download/154803537358880768/175798611068583936.deb
+Depiction: https://repo.dynastic.co/depiction/154803537358880768/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/154803537358880768/
+Size: 5618
+MD5sum: 3f1ec219b2eac9af2f426448999eac32
+SHA1: 31dca94a2ddc83bc4bf0828f83df336bf4d588fc
+SHA256: f4ef35d3d130a6f49260863f6523c5a86f86fb63f4b005862ebf1afa48b42c8d
+Icon: https://repo.dynastic.co/data/static/version/175798611068583936/175798611223773184?size=180
+
+Package: com.jeffresc.shortlook.plugin.contact-photo.apollo
+Name: Apollo Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Apollo users' profile pictures in ShortLook when you receive a Apollo notification!
+Maintainer: JeffResc
+Author: JeffResc
+Section: Tweaks (ShortLook)
+Version: 1.0.1
+Installed-Size: 152
+Filename: download/154802696883273728/175798695365705728.deb
+Depiction: https://repo.dynastic.co/depiction/154802696883273728/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/154802696883273728/
+Size: 6112
+MD5sum: 928899595844822a7dd9be57b062b875
+SHA1: bbcf0a6d370f0a2a6dacd43c3ace3c2f5ff288b1
+SHA256: d7f29ebb3e906a9302890cb7dd4183f15a4b05f36387a5ae61ae45b50c4361f5
+Icon: https://repo.dynastic.co/data/static/version/175798695365705728/175798695567032320?size=180
+
+Package: com.jeffresc.shortlook.plugin.contact-photo.reddit
+Name: Reddit Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Reddit users' profile pictures in ShortLook when you receive a Reddit notification!
+Maintainer: JeffResc
+Author: JeffResc
+Section: Tweaks (ShortLook)
+Version: 1.1.1
+Installed-Size: 152
+Filename: download/152312662213001216/175798491010826240.deb
+Depiction: https://repo.dynastic.co/depiction/152312662213001216/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/152312662213001216/
+Size: 6918
+MD5sum: e0fd14f41d095849c0ae90df09bb3613
+SHA1: ee403a2a1ed40653e48ff2f20de7c37b50d3bb9b
+SHA256: 02a66f59c7fe3166a1b7367b2f4e26f1f869b219e103d8700c88b5a2aa7b6859
+Icon: https://repo.dynastic.co/data/static/version/175798491010826240/175798493472882688?size=180
+
+Package: com.jeffresc.shortlook.plugin.contact-photo.tumblr
+Name: Tumblr Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Architecture: iphoneos-arm
+Description: Show Tumblr users' profile pictures in ShortLook when you receive a Tumblr notification!
+Maintainer: JeffResc
+Author: JeffResc
+Section: Tweaks (ShortLook)
+Version: 1.0.2
+Installed-Size: 152
+Filename: download/152314741295939584/175798072360566784.deb
+Depiction: https://repo.dynastic.co/depiction/152314741295939584/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/152314741295939584/
+Size: 5762
+MD5sum: 4ceb030b8b4437323429cfd6ecc902f0
+SHA1: 50d4fe01844b67dbf52bc251735bc8c672f4dd8a
+SHA256: 81f241a1947366717e150e0d44ec8156faba4fb58d5a79acac3c22a9016811be
+Icon: https://repo.dynastic.co/data/static/version/175798072360566784/175798072759025664?size=180
+
+Package: com.aesthyrica.lafon
+Name: Lafon
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Change Your Lock screen font — Customise your lock screen with a beautiful font
+Maintainer: Aesthyrica
+Author: aesthyrica
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 288
+Filename: download/166496296314601472/166496296738226176.deb
+Depiction: https://repo.dynastic.co/depiction/166496296314601472/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/166496296314601472/
+Size: 16360
+MD5sum: bc3240c02e740c65c1f202c0d916c5cb
+SHA1: c88373bd11f8fea029a6540dc965d932a4d402a2
+SHA256: 052c76042d24c2dfc1154ce15f7c1a3b19a06291cd561f09c28ab96c97669818
+Icon: https://repo.dynastic.co/data/static/version/166496296738226176/168431511685562368?size=180
+
+Package: me.aesign.sentialbasic
+Version: 1.0
+Section: Themes
+Maintainer: Aesign <a.chiarlitti@icloud.com>
+Depends: firmware (>= 7.0), com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Name: Sential Basic
+Description: The free version of Sential.  — For the full version, look for Sential (cydia://package/me.aesign.sential).
+Author: Alessandro Chiarlitti
+Filename: download/94628968640020480/94628969042673664.deb
+Depiction: https://repo.dynastic.co/depiction/94628968640020480/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/94628968640020480/
+Size: 792734
+MD5sum: 452d2aa619b87aeff308506840386a82
+SHA1: 5cb0b44812daa1167a1a865ced06e4be47212271
+SHA256: 2d30c4bf2cf4cf44aab48df914565bdc4057fca7553180f3baad7201203e8752
+Icon: https://repo.dynastic.co/data/static/version/94628969042673664/94640803728588800?size=180
+
+Package: me.aesign.sential
+Version: 1.3
+Section: Themes
+Maintainer: Aesign <a.chiarlitti@icloud.com>
+Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Name: Sential
+Description: Improve your iOS Icons. — Sential is a theme made to improve iOS. It has been crafted with precision, attention and dedication. It is aimed to those who have always customized iOS but even to those who don't really love to use themes.
+Author: Alessandro Chiarlitti
+Filename: download/94629094884376576/94629094997622784.deb
+Depiction: https://repo.dynastic.co/depiction/94629094884376576/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/94629094884376576/
+Size: 2350364
+MD5sum: 5b477a645b8051df9dbe342b575a4fa2
+SHA1: 70c9c001abee1147be536f3a70bb8c323e73752f
+SHA256: 90e1c159133dc6ec15fb3f2ed11f70006470edc5f0a37702b66ceb20739d17c5
+Icon: https://repo.dynastic.co/data/static/version/94629094997622784/161050167112368128?size=180
+Tag: cydia::commercial
+
+Package: com.wizage.gif2ani2
+Name: Gif2Ani V2
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: iOS Respring animations from any gif you want! — Set any gif you would like as a respring logo. Convert existing springy packs and movies to gifs. Does not require anemone.
+Maintainer: wizages, MidnightChips
+Author: MidnightChips
+Section: Tweaks
+Provides: com.aditkamath.springy
+Version: 2.1
+Installed-Size: 252
+Filename: download/96349567687065600/96349567905169408.deb
+Depiction: https://repo.dynastic.co/depiction/96349567687065600/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/96349567687065600/
+Size: 32414
+MD5sum: a209c3df20d468cdc5a5d600bfb1b25e
+SHA1: 4c834c22af23991b6ab4d0539d7ec0bdb68fee7c
+SHA256: f7adf4c5b7249a151d3c8f09c6a0de8d9d4260cf6084f34070769d8cb70630d7
+Icon: https://repo.dynastic.co/data/static/version/96349567905169408/97140789611593728?size=180

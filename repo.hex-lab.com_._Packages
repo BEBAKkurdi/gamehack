@@ -1,0 +1,59 @@
+Package: com.iTheGentle.LazySC
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: <v70@hotmail.com>
+Depends: firmware (>=9.3), firmware (>= 5.0), mobilesubstrate
+Filename: ./pkg/com.iTheGentle.LazySC.deb
+Size: 46532
+MD5sum: 73c157b80271dda1fda4d9566932e790
+SHA1: 1ac74622faf63757fd33334eb85a8f3606cd4c06
+SHA256: 558a4a5c623fbc5704af45b65da3eda6bfab708dee972b286c20d28b8c8b502c
+Section: Tweaks
+Description: Enable you to upload a long video to a Snapchat story from your memories, with breaking 10s limit & hiding text label that mention it's from your memories.
+Author: iTheGentle <v70@hotmail.com>
+Depiction: https://repo.hex-lab.com/depiction/web/com.iTheGentle.LazySC.html
+Icon: https://repo.hex-lab.com/assets/com.iTheGentle.LazySC/icon.png
+Moderndepiction: https://repo.hex-lab.com/depiction/native/com.iTheGentle.LazySC.json
+Name: LazySC
+Sileodepiction: https://repo.hex-lab.com/depiction/native/com.iTheGentle.LazySC.json
+
+Package: com.iTheGentle.adsRemoval
+Version: 0.0.1-105
+Architecture: iphoneos-arm
+Maintainer: iTheGentle <v70@hotmail.com>
+Depends: firmware (>=9.3), mobilesubstrate
+Filename: ./pkg/com.iTheGentle.adsRemoval.deb
+Size: 13642
+MD5sum: fb47bdab37592dffde178f620f5329f1
+SHA1: 482f9f71e59793e995338a372cba7580ea46bb31
+SHA256: 091e316d8918674fca4bd71ab85a6ee73668d0fb210198a34dfbc21f8ea253b5
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Phantom Crack
+Author: ولد السعد <v70@hotmail.com>
+Depiction: https://repo.hex-lab.com/depiction/web/com.iTheGentle.adsRemoval.html
+Icon: https://repo.hex-lab.com/assets/com.iTheGentle.adsRemoval/icon.png
+Moderndepiction: https://repo.hex-lab.com/depiction/native/com.iTheGentle.adsRemoval.json
+Name: PhantomCrack
+Sileodepiction: https://repo.hex-lab.com/depiction/native/com.iTheGentle.adsRemoval.json
+
+Package: com.ithegentle.infltrpro
+Version: 0.0.1-13
+Architecture: iphoneos-arm
+Maintainer: iTheGentle <v70@hotmail.com>
+Depends: firmware (>=9.3), mobilesubstrate
+Filename: ./pkg/com.ithegentle.infltrpro.deb
+Size: 10218
+MD5sum: 9826289b72c7453abd2adcf9d292ea52
+SHA1: 19587462723c474e4ad0b683ff1a4c4d1bc08b6a
+SHA256: 79021987fada1bf953f4b5603db2ca58aa4bf6fc6d519a9ece372350687d0987
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: Get All Infltr's Pro Features!
+Author: iTheGentle <v70@hotmail.com>
+Depiction: https://repo.hex-lab.com/depiction/web/com.ithegentle.infltrpro.html
+Icon: https://repo.hex-lab.com/assets/com.ithegentle.infltrpro/icon.png
+Moderndepiction: https://repo.hex-lab.com/depiction/native/com.ithegentle.infltrpro.json
+Name: InfltrPro
+Sileodepiction: https://repo.hex-lab.com/depiction/native/com.ithegentle.infltrpro.json
+

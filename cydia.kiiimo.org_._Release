@@ -1,0 +1,8 @@
+Origin: A kiiimo Repository 
+Label: A kiiimo Repository 
+Suite: stable
+Version: 2.0
+Codename: cydia.kiiimo.org
+Architectures: iphoneos-arm
+Components: main
+Description: kiiimo Repository

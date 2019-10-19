@@ -1,0 +1,8 @@
+Origin: Alfhaily APT
+Label: Alfhaily APT
+Suite: stable
+Version: 2.0
+Codename: stabe
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia Repository

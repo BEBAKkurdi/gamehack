@@ -1,0 +1,12 @@
+Origin: iTheGentle's Repo
+Label: iTheGentle's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: My Personal Tweaks
+
+SHA256:
+ 1cac630c64bced08454c5c5e33a420851ef7a2590c999801327b489075de14bd 1063 Packages.bz2
+ 8246bf318e0a7cade4e1597a314acd247ea4e6eb9b83f475a623ba2bf8a4f333 964 Packages.xz

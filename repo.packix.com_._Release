@@ -1,0 +1,20 @@
+Origin: Packix
+Label: Packix
+Suite: stable
+Version: 1.1
+Codename: iospackix
+Architectures: iphoneos-arm
+Components: main
+Description: Check out what’s new and download purchases from the Charix marketplace!
+MD5Sum:
+ e0ea0ce24ca5945ae50f657a1337be73 5328341 Packages
+ e090bff08af69ba9312e0f827cfd6b0e 877341 Packages.gz
+ 1b120906cf1ac95f8c356221444fc11e 788730 Packages.bz2
+ 7177a6af6edd0e58494da77e3a764990 832450 Packages.lzma
+ cfc403627837a206377ecace445c83b4 693888 Packages.xz
+SHA256:
+ 9fe76c9d700b3235215d8a5afd86ea14c8d8fbc26253ad4bf681d25c6c97755b 5328341 Packages
+ a9a1dbdd2fc2e22ebc2f6f494378cd5a3a09fab98c1f375287aa84ef00efe890 877341 Packages.gz
+ 3dda73404ca7c3015733fb1cae01181f6a54795b69e1e812318d3563461e6ece 788730 Packages.bz2
+ 1aa38c7ae7e66103fd8747f713bc2ab5c449c3dbcfd535bfb0cd1884c924e280 832450 Packages.lzma
+ 37db02c07e7c16ec74a09161259ca58fd5db7b459342bfb01c512d44b2f78765 693888 Packages.xz

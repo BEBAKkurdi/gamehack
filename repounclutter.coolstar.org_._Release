@@ -1,0 +1,17 @@
+Origin: BigBoss+
+Label: BigBoss+
+Suite: stable
+Version: 0.9
+Codename: repounclutter
+Architectures: iphoneos-arm
+Components: main
+Description: iOS 11 and higher compatible packages from BigBoss, Modmyi and ZodTTD combined
+Date: Sat, 19 Oct 2019 09:16:24 +0000
+MD5Sum:
+ 79a2b25528797f319c391b2c10a517e5 2084890 Packages
+ dc6eff3873b2ed055dcb0d3ad48b5bf1 329900 Packages.bz2
+ 48efa8e2b46d623fdd8b6f1d163fd15c 334936 Packages.xz
+SHA256:
+ bdabce3331864cb79ce8ce87153f31c1189ce43b0edb2e6773a3ef22baae7813 2084890 Packages
+ 08477ab8eedf762d2437ba5e77b5ac350d7e47d18f0fd56306da3197016fa651 329900 Packages.bz2
+ 3d07b73541885f4c6fe6ed7e3258592d8004032b2f8753890279ddd534844e29 334936 Packages.xz
