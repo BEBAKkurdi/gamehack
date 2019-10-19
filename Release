@@ -2,7 +2,7 @@ Origin: Bebak JB
 Label: Bebak JB
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: ios 13.1.1
 Architectures: iphoneos-arm
 Components: main
 Description: 
