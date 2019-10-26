@@ -3,7 +3,7 @@ Architecture: iphoneos-arm
 Maintainer: bebak
 Depends: sileo
 Conflicts: nothing
-Filename: pubg
+Filename: deb/host(evi1)(1).deb
 Size:  1 m
 Section: Utilities
 Homepage: https://bebakkurdi.github.io/gamehack/
