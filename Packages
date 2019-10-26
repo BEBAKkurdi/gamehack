@@ -1,0 +1,12 @@
+Package: https://bebakkurdi.github.io/gamehack/
+Architecture: iphoneos-arm
+Maintainer: bebak
+Depends: sileo
+Conflicts: nothing
+Filename: pubg
+Size:  1 m
+Section: Utilities
+Homepage: https://bebakkurdi.github.io/gamehack/
+Description: hack pubg host
+Author: bebak
+Name: pubg
